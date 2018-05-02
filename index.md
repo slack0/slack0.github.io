@@ -1,6 +1,11 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-layout: home
 ---
+
+### i delve in data, machine/deep learning, chip design, semiconductors, technology and everything in between
+
+#### you can follow me on twitter at [@_smuddu](twitter.com/_smuddu)
+
+#### connect with me on [linkedin](https://www.linkedin.com/in/smuddu) or contact via [email](mailto:$firstName.$lastName@gmail)
+
+
+<hr />
