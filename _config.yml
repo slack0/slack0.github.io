@@ -1,0 +1,17 @@
+title: Swamy Muddu
+description: >
+  Machine Learning. Chip Design. Technology
+baseurl: ""
+url: "https://slack0.github.io"
+paginate:	7 # The number of posts to show per page on your homepage
+name: "Swamy Muddu"
+email: 'firstName.lastName@gmail.com'
+markdown: kramdown
+permalink: none
+kramdown:
+  parse_block_html: true
+gems:
+  - jekyll-paginate
+  - jekyll-compose
+  - jekyll-sass-converter
+  - jekyll-textile-converter
