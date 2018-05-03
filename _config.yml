@@ -1,9 +1,9 @@
 title: Swamy Muddu
 description: >
-  Machine Learning. Chip Design. Technology
+  Data. Machine Learning. Chip Design
 baseurl: ""
 url: "https://slack0.github.io"
-paginate:	7 # The number of posts to show per page on your homepage
+paginate:	5 # The number of posts to show per page on your homepage
 name: "Swamy Muddu"
 email: 'firstName.lastName@gmail.com'
 markdown: kramdown
